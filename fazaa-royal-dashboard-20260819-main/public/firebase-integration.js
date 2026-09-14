@@ -1,11 +1,12 @@
 // Firebase Configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyCRpZIYvOqcjXw2km-hrTKT-cl9E3ovunk",
-    authDomain: "fazaa-a906d.firebaseapp.com",
-    projectId: "fazaa-a906d",
-    storageBucket: "fazaa-a906d.firebasestorage.app",
-    messagingSenderId: "323459850961",
-    appId: "1:323459850961:web:c09e075ece8dfc3d9ddbf0"
+    apiKey: "AIzaSyDtdis9lsMO4_XEezhKltBizmc8VOhZRcA",
+    authDomain: "fazaa-e035d.firebaseapp.com",
+    projectId: "fazaa-e035d",
+    storageBucket: "fazaa-e035d.firebasestorage.app",
+    messagingSenderId: "252034503956",
+    appId: "1:252034503956:web:c9393f0020f1420adb5e01",
+    measurementId: "G-9266Q01KGV"
 };
 
 // Initialize Firebase
